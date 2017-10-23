@@ -1,6 +1,6 @@
 <?php
 $_field['store_name'] = "Editor";
-$_field['module_description'] = "<p>Catalog editing module.</p>";
+$_field['module_description'] = "Catalog editing module.";
 
 $_field['close'] = "Close";
 $_field['edit'] = "Edit";
