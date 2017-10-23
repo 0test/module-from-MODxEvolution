@@ -1,6 +1,6 @@
 <?php
 $_field['store_name'] = "Редактор товаров";
-$_field['module_description'] = "<p>Модуль редактирования товаров.</p>";
+$_field['module_description'] = "Модуль редактирования товаров.";
 
 $_field['close'] = "Закрыть";
 $_field['edit'] = "Редактировать";
